@@ -7,4 +7,5 @@ This App allows you to search for a comics, hero or even authors of Marvel Unive
 
 API - https://developer.marvel.com
 
+![Alt Text](demo.gif)
 
